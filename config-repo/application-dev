@@ -1,8 +1,0 @@
-spring:
-  application:
-    name: application-dev
-
-logging:
-  level:
-    org.springframework.boot: DEBUG
-    org.springframework.cloud: DEBUG
