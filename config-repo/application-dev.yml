@@ -1,6 +1,6 @@
 spring:
   application:
-    name: application-dev
+    name: microservice-config-client
 
 logging:
   level:
